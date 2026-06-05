@@ -45,4 +45,4 @@ For a new cookware sourcing project, use the documents in this order:
 
 ## License
 
-This toolkit is provided as a practical reference for B2B cookware sourcing teams. You may copy and adapt the templates for internal sourcing work.
+This toolkit is licensed under the Creative Commons Attribution 4.0 International License. See `LICENSE` for details.
