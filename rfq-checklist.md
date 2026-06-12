@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cookware RFQ Checklist
+---
+
 # Cookware RFQ Checklist
 
 Use this checklist before sending a request for quotation to cookware suppliers. A clear RFQ helps suppliers quote against the same assumptions, reduces back-and-forth, and makes supplier comparison more reliable.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cookware Supplier Evaluation Scorecard
+---
+
 # Cookware Supplier Evaluation Scorecard
 
 Use this scorecard to compare cookware suppliers after receiving catalogs, quotations, samples, factory information, and compliance documents. Adjust the weighting to match your project risk and business model.

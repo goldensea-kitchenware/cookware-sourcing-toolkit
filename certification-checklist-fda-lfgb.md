@@ -1,3 +1,8 @@
+---
+layout: default
+title: FDA / LFGB Cookware Certification Checklist
+---
+
 # FDA / LFGB Cookware Certification Checklist
 
 Use this checklist to prepare compliance-related questions for cookware sourcing projects. It is intended for buyer-supplier communication and document organization. It is not legal advice and does not replace review by qualified labs, customs advisors, compliance consultants, or legal counsel.

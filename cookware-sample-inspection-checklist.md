@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cookware Sample Inspection Checklist
+---
+
 # Cookware Sample Inspection Checklist
 
 Use this checklist when reviewing cookware samples before approving a bulk order, requesting modifications, or sending a sample for lab testing. Keep photos, measurements, and supplier comments together with the checklist.

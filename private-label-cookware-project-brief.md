@@ -1,3 +1,8 @@
+---
+layout: default
+title: Private Label Cookware Project Brief
+---
+
 # Private Label Cookware Project Brief
 
 Use this brief when preparing a private label cookware project for supplier discussion. A good brief helps suppliers understand the brand position, product scope, packaging expectations, compliance needs, and launch priorities before quoting or sampling.

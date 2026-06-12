@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tri-ply Cookware Specification Template
+---
+
 # Tri-ply Cookware Specification Template
 
 Use this template to define tri-ply stainless steel cookware requirements before requesting samples or quotations. Clear specifications help suppliers identify feasible construction, quote against the same product assumptions, and explain cost differences.
