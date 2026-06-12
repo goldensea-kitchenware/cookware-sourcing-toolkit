@@ -3,8 +3,6 @@ layout: default
 title: Cookware Sourcing Toolkit
 ---
 
-# Cookware Sourcing Toolkit
-
 Practical, editable templates for B2B buyers planning stainless steel cookware, tri-ply cookware, OEM/ODM, and private label sourcing projects.
 
 Use these tools to define requirements, prepare supplier conversations, compare proposals, review samples, and organize compliance questions. The templates are intended for importers, wholesale distributors, private label brands, retail buying teams, HoReCa suppliers, sourcing agents, and product managers.
