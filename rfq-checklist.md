@@ -7,6 +7,10 @@ title: Cookware RFQ Checklist
 
 Use this checklist before sending a request for quotation to cookware suppliers. A clear RFQ helps suppliers quote against the same assumptions, reduces back-and-forth, and makes supplier comparison more reliable.
 
+> [!TIP]
+> **Download Editable Excel Template**: You can download a professionally styled Excel spreadsheet version of this checklist to fill out and send directly to your suppliers:
+> 📥 **[Download Tri-ply Cookware RFQ Template (.xlsx)]({{ '/downloads/Tri-ply-Cookware-RFQ-Template.xlsx' | relative_url }})**
+
 ## 1. Buyer and Project Context
 
 | Field | Details |

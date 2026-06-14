@@ -7,6 +7,10 @@ title: Cookware Supplier Evaluation Scorecard
 
 Use this scorecard to compare cookware suppliers after receiving catalogs, quotations, samples, factory information, and compliance documents. Adjust the weighting to match your project risk and business model.
 
+> [!TIP]
+> **Download Editable Excel Template**: You can download a professionally styled and formula-enabled Excel spreadsheet version of this scorecard to automate your supplier calculations:
+> 📥 **[Download Supplier Evaluation Scorecard (.xlsx)]({{ '/downloads/Supplier-Evaluation-Scorecard.xlsx' | relative_url }})**
+
 Scoring suggestion:
 
 - 5 = Strong fit, clear evidence provided

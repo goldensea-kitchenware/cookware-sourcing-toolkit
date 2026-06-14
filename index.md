@@ -9,14 +9,14 @@ Use these tools to define requirements, prepare supplier conversations, compare 
 
 ## Choose a Template
 
-| Template | Best used for |
-| --- | --- |
-| [Private Label Cookware Project Brief]({{ '/private-label-cookware-project-brief.html' | relative_url }}) | Define the commercial, product, branding, packaging, and timeline requirements for a new program. |
-| [Tri-ply Cookware Specification Template]({{ '/tri-ply-cookware-spec-template.html' | relative_url }}) | Document construction, dimensions, finish, handles, lids, packaging, and sample requirements. |
-| [Cookware RFQ Checklist]({{ '/rfq-checklist.html' | relative_url }}) | Prepare a complete request for quotation before contacting shortlisted suppliers. |
-| [Cookware Supplier Evaluation Scorecard]({{ '/supplier-evaluation-scorecard.html' | relative_url }}) | Compare supplier capability, sample quality, compliance support, communication, and risk. |
-| [Cookware Sample Inspection Checklist]({{ '/cookware-sample-inspection-checklist.html' | relative_url }}) | Record appearance, dimensions, fittings, lid fit, cooking surface, packaging, and approval findings. |
-| [FDA / LFGB Cookware Certification Checklist]({{ '/certification-checklist-fda-lfgb.html' | relative_url }}) | Organize market requirements, supplier documents, report review, testing plans, and compliance questions. |
+| Template | Best used for | Downloadable Format |
+| --- | --- | --- |
+| [Private Label Cookware Project Brief]({{ '/private-label-cookware-project-brief.html' | relative_url }}) | Define the commercial, product, branding, packaging, and timeline requirements for a new program. | - |
+| [Tri-ply Cookware Specification Template]({{ '/tri-ply-cookware-spec-template.html' | relative_url }}) | Document construction, dimensions, finish, handles, lids, packaging, and sample requirements. | - |
+| [Cookware RFQ Checklist]({{ '/rfq-checklist.html' | relative_url }}) | Prepare a complete request for quotation before contacting shortlisted suppliers. | 📥 [Download RFQ Template (.xlsx)]({{ '/downloads/Tri-ply-Cookware-RFQ-Template.xlsx' | relative_url }}) |
+| [Cookware Supplier Evaluation Scorecard]({{ '/supplier-evaluation-scorecard.html' | relative_url }}) | Compare supplier capability, sample quality, compliance support, communication, and risk. | 📥 [Download Scorecard (.xlsx)]({{ '/downloads/Supplier-Evaluation-Scorecard.xlsx' | relative_url }}) |
+| [Cookware Sample Inspection Checklist]({{ '/cookware-sample-inspection-checklist.html' | relative_url }}) | Record appearance, dimensions, fittings, lid fit, cooking surface, packaging, and approval findings. | - |
+| [FDA / LFGB Cookware Certification Checklist]({{ '/certification-checklist-fda-lfgb.html' | relative_url }}) | Organize market requirements, supplier documents, report review, testing plans, and compliance questions. | - |
 
 ## Recommended Workflow
 
