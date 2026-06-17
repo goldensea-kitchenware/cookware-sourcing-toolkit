@@ -5,155 +5,143 @@ title: Cookware RFQ Checklist
 
 # Cookware RFQ Checklist
 
+📥 **[Download Raw Markdown Template](https://raw.githubusercontent.com/goldensea-kitchenware/cookware-sourcing-toolkit/main/rfq-checklist.md)** | 📄 **[View on GitHub](https://github.com/goldensea-kitchenware/cookware-sourcing-toolkit/blob/main/rfq-checklist.md)**
+
 Use this checklist before sending a request for quotation to cookware suppliers. A clear RFQ helps suppliers quote against the same assumptions, reduces back-and-forth, and makes supplier comparison more reliable.
 
 > [!TIP]
 > **Download Editable Excel Template**: You can download a professionally styled Excel spreadsheet version of this checklist to fill out and send directly to your suppliers:
 > 📥 **[Download Tri-ply Cookware RFQ Template (.xlsx)]({{ '/downloads/Tri-ply-Cookware-RFQ-Template.xlsx' | relative_url }})**
 
+---
+
+## Technical & Commercial Context: Sourcing Best Practices
+
+To secure accurate quotes and protect your brand's intellectual property, ensure your RFQ incorporates the following industry standards:
+
+### 1. Intellectual Property Protection (NDA)
+* Prior to sharing custom 3D drawings, CAD files, or brand-specific design briefs with suppliers, obtain a signed **Non-Disclosure Agreement (NDA)** or Product Development Agreement. 
+* *Sourcing tip:* Specify that all custom tooling, molds, and designs remain the exclusive property of the buyer.
+
+### 2. Packaging Transit Standards (Drop Testing)
+Cookware shipments—especially those featuring glass lids or non-stick coatings—are highly susceptible to transit damage.
+* **ISTA 3A (Parcel Delivery):** Mandatory for e-commerce or parcel shipping (e.g., UPS, FedEx, Amazon). Simulates drops, vibrations, and compression.
+* **ISTA 1A / 2A (Basic Screening):** Standard drop test on corners, edges, and faces for palletized retail distribution.
+* **Amazon FFP / SIOC:** Frustration-Free Packaging / Ships in Own Container testing if selling directly on Amazon.
+
+### 3. Commercial Terms & Tooling Amortization
+* **Incoterms:** Standardize on **FOB Jiangmen** or **FOB Shenzhen** for Chinese cookware exports.
+* **Payment Structure:** Standard industry payment terms are **30% T/T deposit, 70% balance** paid after third-party QC inspection approval and before loading/BL release.
+* **Tooling/Mold Costs:** If new molds are required (e.g., for custom handles, helper handles, or unique lid designs), request a separate tooling quote. Ask for the **tooling fee refund threshold** (e.g., the supplier refunds 100% of the mold fee once cumulative orders reach 5,000 or 10,000 units of that SKU).
+
+---
+
 ## 1. Buyer and Project Context
 
-| Field | Details |
+| Field | Details / Requirement |
 | --- | --- |
-| Company name |  |
-| Buyer type | Importer / distributor / private label brand / retailer / HoReCa supplier / sourcing agent / other |
-| Destination market |  |
-| Sales channel | Retail / wholesale / e-commerce / professional kitchen / hospitality / other |
-| Project type | New product / existing product replacement / line extension / tender / seasonal program |
-| Target launch date |  |
-| Internal decision deadline |  |
+| **Company Name** | `[e.g., Sourcing Solutions Ltd]` |
+| **Buyer Sourcing Profile** | `[e.g., Private Label Brand / Wholesale Distributor]` |
+| **Destination Market** | `[e.g., Germany (LFGB) / United States (FDA)]` |
+| **Sales Channel** | `[e.g., E-commerce (Amazon) / Specialty Retail]` |
+| **Project Sourcing Type** | `[ ] New Custom OEM/ODM` <br>`[ ] Private Labeling of Existing Model` <br>`[ ] Re-sourcing` |
+| **Target Launch Date** | `[e.g., Q4 2026]` |
+| **NDA Signed Date** | `[e.g., June 10, 2026]` (Must sign before sending drawings) |
 
-## 2. Product Scope
+---
 
-| Field | Details |
-| --- | --- |
-| Product category | Fry pan / saucepan / casserole / stock pot / saute pan / steamer / cookware set / other |
-| Number of SKUs |  |
-| Set composition |  |
-| Target use | Household / professional kitchen / hospitality / promotional / retail shelf program |
-| Required cooking compatibility | Gas / electric / ceramic / induction / oven / dishwasher |
-| Product reference | Existing sample / drawing / photo / market benchmark / open supplier suggestion |
+## 2. Product Assortment and Structure
 
-## 3. Material and Construction
-
-| Field | Details |
-| --- | --- |
-| Main material | Stainless steel / tri-ply stainless steel / aluminum / other |
-| Food-contact surface |  |
-| Core or base structure | Full tri-ply body / encapsulated base / disc bottom / other |
-| Outer layer or base requirement | Magnetic stainless steel / induction-ready base / other |
-| Thickness target |  |
-| Weight target or tolerance |  |
-| Surface finish | Mirror polish / satin / brushed / hammered / etched / other |
-
-## 4. Size, Capacity, and Dimensions
-
-| Item | Required size | Capacity | Diameter | Height | Notes |
+| SKU | Cookware Category | Dimensions (Diameter x Height) | Material Structure (e.g., Tri-Ply 2.5mm) | Core Thickness | Lid & Handle Type |
 | --- | --- | --- | --- | --- | --- |
-| SKU 1 |  |  |  |  |  |
-| SKU 2 |  |  |  |  |  |
-| SKU 3 |  |  |  |  |  |
-| SKU 4 |  |  |  |  |  |
+| **1** | `[e.g., Frypan]` | `[e.g., 24 cm x 5.0 cm]` | `[e.g., Tri-ply 2.5 mm]` | `[e.g., 1.5 mm Aluminum]` | `[e.g., Long cast SS handle, no lid]` |
+| **2** | `[e.g., Casserole]` | `[e.g., 20 cm x 10.0 cm]` | `[e.g., Tri-ply 2.5 mm]` | `[e.g., 1.5 mm Aluminum]` | `[e.g., Loop side handles, Glass lid]`|
+| **3** | `[e.g., Saucepan]` | `[e.g., 16 cm x 8.0 cm]` | `[e.g., Tri-ply 2.5 mm]` | `[e.g., 1.5 mm Aluminum]` | `[e.g., Long handle + helper, Glass lid]`|
+| **4** | `[e.g., Stockpot]` | `[e.g., 24 cm x 14.0 cm]` | `[e.g., Tri-ply 2.5 mm]` | `[e.g., 1.5 mm Aluminum]` | `[e.g., Loop side handles, SS lid]` |
 
-## 5. Lid, Handle, and Fittings
+---
 
-| Field | Details |
-| --- | --- |
-| Lid type | Stainless steel / glass / strainer lid / no lid / other |
-| Lid fit requirement |  |
-| Handle type | Long handle / side handles / helper handle / detachable / other |
-| Handle material | Stainless steel / bakelite / silicone / wood-effect / other |
-| Handle attachment | Riveted / welded / screwed / other |
-| Heat-resistance expectation |  |
-| Knob requirement |  |
+## 3. Technical Specifications
 
-## 6. Branding and Appearance
+| Component / Feature | Sourcing Requirement | Target / Reference Standards |
+| --- | --- | --- |
+| **Material Cladding** | `[ ] Tri-ply (SS304 + Alu + SS430)` <br>`[ ] 5-Ply Clad` | Core: Pure Aluminum |
+| **Target Total Thickness**| `[ ] 2.0 mm` <br>`[ ] 2.3 mm` <br>`[ ] 2.5 mm` <br>`[ ] 3.0 mm` | Tolerance: $\pm 0.1\text{ mm}$ |
+| **Inner Surface Finish** | `[e.g., Satin Brushed finish]` | Food-contact safe, no oil residue |
+| **Exterior Surface Finish**| `[e.g., High Mirror Polish]` | Corrosion resistant |
+| **Rim Finish** | `[ ] Sealed Closed Rim` <br>`[ ] Exposed Cut Rim` | Closed Rim preferred for dishwashers |
+| **Base Compatibility** | `[ ] Gas` <br>`[ ] Electric` <br>`[ ] Ceramic` <br>`[ ] Induction` | Must pass magnet compatibility check |
+| **Stamping / Logo** | `[e.g., Stamped logo center bottom]` | Location: Center of bottom |
 
-| Field | Details |
-| --- | --- |
-| Logo placement | Bottom / handle / lid / packaging / other |
-| Logo method | Laser / stamped / printed / embossed / other |
-| Brand color requirements |  |
-| Surface pattern | Plain / hammered / honeycomb / etched / custom |
-| Retail appearance benchmark |  |
-| Product photography requirement |  |
+---
 
-## 7. Packaging Requirements
+## 4. Fittings (Handles, Lids & Knobs)
 
-| Field | Details |
-| --- | --- |
-| Packaging type | Brown box / color box / sleeve / gift box / master carton / pallet |
-| Retail-ready packaging needed | Yes / no / to be confirmed |
-| Packaging language |  |
-| Barcode or label needs |  |
-| Instruction manual | Yes / no / to be confirmed |
-| Carton marks |  |
-| Drop test or transit requirement |  |
+| Component | Sourcing Requirement | Target / Reference Standards |
+| --- | --- | --- |
+| **Lid Material** | `[ ] Tempered Glass (Flat / Dome)` <br>`[ ] Stainless Steel` | Glass thickness: min 4.0 mm |
+| **Lid Knob** | `[e.g., Cast Stainless Steel knob with stay-cool design]` | Secure attachment, no heat conduction |
+| **Long Handle** | `[e.g., Hollow stainless steel long handle with hanging hole]` | Ergonomic grip, hanging hole |
+| **Side / Helper Handles** | `[e.g., Cast Stainless Steel loop handles for casserole]` | Recommended for casseroles $> 24\text{ cm}$ |
+| **Attachment Method** | `[ ] Riveted (Stainless Steel Rivets)` <br>`[ ] Welded (Smooth Interior)` | Pull-test strength: $\ge 100\text{ kg}$ |
 
-## 8. Compliance and Documentation
+---
 
-| Field | Details |
-| --- | --- |
-| Target market |  |
-| Food-contact requirements | FDA-related / LFGB-related / other / to be confirmed |
-| Required test reports |  |
-| Material declaration needed | Yes / no / to be confirmed |
-| Factory audit requirement | BSCI / ISO9001 / customer audit / other |
-| Documentation deadline |  |
-| Importer or lab contact |  |
+## 5. Packaging and Transit Requirements
 
-## 9. Quantity and Commercial Planning
+| Field | Packaging Specification | Testing / Standard |
+| --- | --- | --- |
+| **Primary Packaging** | `[e.g., Retail color gift box, 3ply cardboard]` | Box thickness: e.g., 350g grey board / E-flute |
+| **Outer Shipping Carton** | `[e.g., Double-wall corrugated shipping master carton]` | Must withstand humidity during sea freight |
+| **Barcodes & Labeling** | `[e.g., UPC barcode printed on box / Shipping labels on carton]` | Position: Bottom right corner |
+| **Transit Testing Standard**| `[e.g., ISTA 3A (Parcel drop test)]` | Specify drop heights based on package weight |
+| **Instruction Manual** | `[e.g., 4-page printed booklet in English & German]` | Languages: English / German / French |
 
-| Field | Details |
-| --- | --- |
-| Estimated first order quantity |  |
-| Annual forecast, if available |  |
-| Sample quantity |  |
-| Target price range |  |
-| Incoterm | EXW / FOB / CIF / DDP / other |
-| Destination port or warehouse |  |
-| Preferred payment terms |  |
-| Currency |  |
+---
 
-## 10. Sample and Approval Process
+## 6. Compliance and Social Audits
 
-| Field | Details |
-| --- | --- |
-| Sample purpose | Material check / size check / packaging review / final approval / lab testing |
-| Required sample version | Supplier standard / modified sample / production-intent sample |
-| Sample approval owner |  |
-| Expected sample review criteria |  |
-| Lab testing before bulk order | Yes / no / to be confirmed |
-| Golden sample required | Yes / no / to be confirmed |
+| Field | Buyer Requirement | Verification Document |
+| --- | --- | --- |
+| **Market Certification** | `[ ] FDA Food Contact` <br>`[ ] LFGB German Compliance` | Third-party accredited lab report |
+| **Factory Social Audit** | `[ ] amfori BSCI` <br>`[ ] Sedex SMETA` <br>`[ ] ISO 9001` | Valid audit report (Grade C or above) |
+| **Material Traceability** | `[e.g., Steel Mill Test Certificate (MTC) required]` | Batch chemistry trace (Cr, Ni, C) |
 
-## 11. Quality Control and Shipment
+---
 
-| Field | Details |
-| --- | --- |
-| Inspection stage | During production / pre-shipment / container loading / other |
-| Inspection standard | AQL / buyer standard / supplier standard / to be agreed |
-| Critical quality points |  |
-| Packaging inspection points |  |
-| Required production photos |  |
-| Shipment document requirements |  |
+## 7. Commercial & Quotation Breakdown
 
-## 12. Questions for Supplier Response
+Ask the supplier to provide quotes divided into the following categories:
 
-- Can you produce this product with the requested material, construction, and finish?
-- Which parts of the specification need adjustment for manufacturability or cost control?
-- What existing models are closest to this request?
-- What information is still missing for an accurate quotation?
-- What sample type do you recommend before bulk order approval?
-- Which test reports or compliance documents are available for similar products?
-- Which requirements may affect tooling, cost, lead time, or order planning?
+| Sourcing Item | Unit Price (USD) | MOQ Required | Tooling / Mold Cost (if any) | Production Lead Time |
+| --- | --- | --- | --- | --- |
+| **SKU 1 (Frypan)** | `[e.g., Target: $12.00]` | `[e.g., 500 units]` | `[e.g., $1,500 (handle mold)]`| `[e.g., 45 days]` |
+| **SKU 2 (Casserole)**| `[e.g., Target: $16.50]` | `[e.g., 500 units]` | `[e.g., $0 (existing mold)]` | `[e.g., 45 days]` |
+| **SKU 3 (Saucepan)** | `[e.g., Target: $11.80]` | `[e.g., 500 units]` | `[e.g., $0 (existing mold)]` | `[e.g., 45 days]` |
+| **SKU 4 (Stockpot)** | `[e.g., Target: $21.00]` | `[e.g., 500 units]` | `[e.g., $0 (existing mold)]` | `[e.g., 45 days]` |
+| **Sample Fee** | `[e.g., USD $50 per set]`| `[e.g., N/A]` | *Refundable on bulk order?* `[e.g., Yes]` | *Sample Lead Time:* `[e.g., 10 days]` |
 
-## 13. Internal Buyer Notes
+* **Preferred Incoterm:** `[e.g., FOB Jiangmen / FOB Shenzhen]`
+* **Preferred Payment Terms:** `[e.g., 30% deposit, 70% balance paid after QC inspection pass]`
+* **Tooling Cost Refund Clause:** Supplier to refund 100% of mold fees once buyer orders a cumulative total of **`[e.g., 5,000 units]`** per SKU.
+* **Validity of Quote:** `[e.g., Minimum 60 days from submission]`
 
-| Topic | Notes |
-| --- | --- |
-| Must-have requirements |  |
-| Flexible requirements |  |
-| Cost-sensitive points |  |
-| Risk concerns |  |
-| Supplier comparison notes |  |
-| Next action |  |
+---
+
+## 8. Questions for Supplier Response
+
+1. *Can you produce this product exactly to the requested material cladding, thickness, and rim finish?*
+2. *Do you have existing molds for the handles and lids shown, or will this project require new tooling?*
+3. *What is your standard production lead time for a first order versus repeat orders?*
+4. *Can you provide a Mill Test Certificate (MTC) for the stainless steel coils to verify chemical composition (Cr/Ni content)?*
+5. *Which accredited laboratory do you normally use for food-contact compliance tests?*
+6. *What AQL defect limits does your factory internal QC team use during final inspection?*
+
+---
+
+## 9. Internal Buyer Notes (Decision matrix)
+
+* **Supplier Strength / Capability:** `[e.g., Factory has strong tri-ply cladding line and BSCI B-grade]`
+* **Sourcing Risks identified:** `[e.g., Lead times might stretch during peak season before Chinese New Year]`
+* **Target vs Sourced Price Variance:** `[e.g., Quotes are within +5% of target price]`
+* **Next Sourcing Action:** `[e.g., Request samples for SKU 1 and SKU 2]`
